@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "AI platform baseline",
+  "moduleDescription": "AVM Pattern Module for AI platform baseline",
+  "canonicalType": "ai-platform-baseline",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.ca32e1e"
+}
